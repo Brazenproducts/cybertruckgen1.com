@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://cybertruckgen1.com/</loc></url>
-<url><loc>https://cybertruckgen1.com/best-storage-upgrades.html</loc></url>
-<url><loc>https://cybertruckgen1.com/best-protection-upgrades.html</loc></url>
-<url><loc>https://cybertruckgen1.com/best-interior-upgrades.html</loc></url>
-<url><loc>https://cybertruckgen1.com/buyers-guide.html</loc></url>
-  <url><loc>https://cybertruckgen1.com/contact.html</loc><lastmod>2026-04-20</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://cybertruckgen1.com/</loc><lastmod>2026-06-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://cybertruckgen1.com/about.html</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cybertruckgen1.com/contact.html</loc><lastmod>2026-06-26</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>
